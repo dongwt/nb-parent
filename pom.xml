@@ -12,6 +12,7 @@
 		<module>nb-ctrl</module>
 		<module>nb-framework</module>
 		<module>nb-web</module>
+		<module>nb-model</module>
 	</modules>
 
 	<properties>
